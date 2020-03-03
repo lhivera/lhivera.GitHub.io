@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Pirate ship
+date:   2020-03-03 22:22:22 +0300
+image:  DSC07171.jpg
+tags:   Travel
+---
+
+![]({{site.baseurl}}/img/DSC07171.jpg)
