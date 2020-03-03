@@ -2,7 +2,7 @@
 layout: post
 title:  Sensō-ji
 date:   2020-03-03 22:22:22 +0300
-image:  04.jpg
+image:  DSC07601.jpg
 tags:   Travel
 ---
 
