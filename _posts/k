@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Hakone
+date:   2020-03-03 22:22:22 +0300
+image:  01.jpg
+tags:   Travel
+---
+
+![]({{site.baseurl}}/img/01.jpg)
