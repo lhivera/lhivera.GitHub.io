@@ -7,4 +7,4 @@ tags:   Travel
 ---
 
 ![]({{site.baseurl}}/img/DSC07171.jpg)
-SONY α7Ⅲ, Carl Zeiss Loxia 2/35, 1/40, 5.6, ISO320, Photo by lhivera
+SONY α7Ⅲ, Carl Zeiss Loxia 2/35, 1/40, F5.6, ISO320, Photo by lhivera
