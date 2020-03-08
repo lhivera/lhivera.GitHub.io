@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Sensō-ji
+title:  浅草寺
 date:   2020-03-07 10:45:15 +0300
 image:  DSC07601.jpg
 tags:   Travel
