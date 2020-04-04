@@ -1,6 +1,6 @@
 ---
 if (prompt('input','') == lhivera){
-	  unlock();
+unlock();
 }else {
     alert('bad password');
 }
