@@ -1,8 +1,8 @@
 <head>
   <script>
     (function(){
-        if('{{ page.lhivera }}'){
-            if (prompt('请输入密码') !== '{{ page.lhivera }}'){
+        if('{{ page.password }}'){
+            if (prompt('lhivera') !== '{{ page.password }}'){
                 alert('密码错误');
                 history.back();
             }
