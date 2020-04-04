@@ -3,8 +3,8 @@
   <script>
     (function(){
         if('{{ page.password }}'){
-            if (prompt('input password') !== '{{ page.password }}'){
-                alert('incorrect password');
+            if (prompt('Input password') !== '{{ page.password }}'){
+                alert('Incorrect password');
                 history.back();
             }
         }
