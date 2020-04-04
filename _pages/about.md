@@ -2,6 +2,7 @@
 layout: page
 title: About
 image: 08.jpg
+password: lhivera
 permalink: /about/
 ---
 
