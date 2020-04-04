@@ -1,9 +1,9 @@
 ---
-if (prompt('input','') == lhivera){unlock();
+if (prompt('input','') == lhivera){
+	  unlock();
 }else {
     alert('bad password');
 }
-
 layout: page
 title: About
 image: 08.jpg
