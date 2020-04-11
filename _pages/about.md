@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: 08.jpg
+image: AX25300-1.jpg
 password: lhivera
 permalink: /about/
 ---
