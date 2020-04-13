@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  浅草寺
-date:   19-03-07 10:45:15 +0300
+date:   2019-03-07 10:45:15 +0300
 image:  DSC07601.jpg
 tags:   Travel
 ---
