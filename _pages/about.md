@@ -6,11 +6,5 @@ password: lhivera
 permalink: /about/
 ---
 
-<small>1989 - 2020</small>
+<small>1900 - 2020</small>
 #### ラブリーチャーミーな敵役
-
-<small>2017 - 2020</small>
-#### 某自動車メーカー
-
-<small>2020 - </small>
-#### 某自動車システムメーカー
