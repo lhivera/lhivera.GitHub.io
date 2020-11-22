@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Ōsu Shopping Street
-date:   2020-04-29 00:56:12 +0300
+date:   2019-04-29 00:56:12 +0300
 image:  DSC00281.jpg
 tags:   Travel
 ---
