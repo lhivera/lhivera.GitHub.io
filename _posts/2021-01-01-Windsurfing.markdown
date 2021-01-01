@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Windsurfing
-date:   2020-01-01 00:00:00 +0300
+date:   2021-01-01 00:00:00 +0300
 image:  DSC00209.jpg
 tags:   Travel
 ---
