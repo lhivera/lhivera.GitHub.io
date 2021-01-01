@@ -96,7 +96,7 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 
 ### Images
 
-![]({{site.baseurl}}/img/03.jpg)
+![]({{site.baseurl}}/img/DSC08462.jpg)
 
 ***
 
