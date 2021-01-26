@@ -12,7 +12,4 @@ tags:   Lightroom 预设
 修改后
 ![]({{site.baseurl}}/img/DSC00564.jpg)
 
-修改前后对比
-![]({{site.baseurl}}/img/comparison_2021012602.jpg)
-
 SONY α7Ⅲ, Carl Zeiss Loxia 2/50, 1/60, F2.8, ISO500, Photo by lhivera
