@@ -6,6 +6,9 @@ image:  DSC00787.jpg
 tags:   Lightroom 预设
 ---
 
+修改前
+![]({{site.baseurl}}/img/DSC00787-2.jpg)
+
 修改后
 ![]({{site.baseurl}}/img/DSC00787.jpg)
 
