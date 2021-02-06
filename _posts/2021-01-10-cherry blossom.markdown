@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  Lightroom 樱花预设
+title:  Cherry blossom
 date:   2021-01-10 23:31:22 +0300
 image:  DSC00564.jpg
-tags:   Lightroom 预设
+tags:   Lightroom Presets
 ---
 
-修改前
+Before
 ![]({{site.baseurl}}/img/DSC00564-2.jpg)
 
-修改后
+After
 ![]({{site.baseurl}}/img/DSC00564.jpg)
 
-SONY α7Ⅲ, Carl Zeiss Loxia 2/50, 1/60, F2.8, ISO500, Photo by lhivera
+SONY α7Ⅲ, Carl Zeiss Loxia 2/50, 1/60, F2.8, ISO500, Photo by lhivera Gallery
