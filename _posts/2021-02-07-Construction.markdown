@@ -8,4 +8,4 @@ tags:   Lightroom Presets
 
 Coming soon.
 
-SONY α7Ⅲ, SONY, FE85 mm F1.8, 1/800, F8.0, ISO100, Photo by lhivera Gallery
+Photo by Lhivera Gallery
