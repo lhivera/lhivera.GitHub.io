@@ -12,4 +12,4 @@ Before
 After
 ![]({{site.baseurl}}/img/DSC00564.jpg)
 
-SONY α7Ⅲ, Carl Zeiss Loxia 2/50, 1/60, F2.8, ISO500, Photo by lhivera Gallery
+Photo by Lhivera Gallery
