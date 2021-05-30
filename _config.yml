@@ -70,3 +70,9 @@ sass:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+#-------------------------------
+ # 对 css 和 js 资源的 cdn 加速配置
+ cdn:
+     jsdelivr:
+         enabled: true
