@@ -2,6 +2,8 @@
 layout: post
 title:  Python3
 date:   2022-01-21 09:58:58 +0300
+image:  DSC05551-3.jpg
+tags:   Lightroom Presets
 ---
 
 2022年4月末までにPython3エンジニア認定基礎試験を受験します！
