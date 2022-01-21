@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Python3
-date:   2022-01-20 09:58:58 +0300
+date:   2022-01-20 09:58:00 +0300
 image:  DSC05551-3.jpg
 tags:   Lightroom Presets
 ---
