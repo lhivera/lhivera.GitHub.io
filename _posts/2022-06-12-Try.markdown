@@ -1,7 +1,0 @@
----
-layout: post
-title:  try
-date:   2022-06-12 00:13:10 +0300
----
-
-Coming soon.
